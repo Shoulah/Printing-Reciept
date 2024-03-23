@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/03/27 17:58:33.000.366,=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/21 17:50:03.000.934,=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/06 16:15:06.000.491,=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/06 16:15:36.000.806,C:\Users\Dark Angel\Documents\RAD Studio\Projects\Printing Reciept\uMain.dfm=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/12/06 16:15:36.000.806,C:\Users\Dark Angel\Documents\RAD Studio\Projects\Printing Reciept\uMain.pas=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/06 16:15:58.000.502,C:\Users\Dark Angel\Documents\RAD Studio\Projects\Printing Reciept\RecieptPrinting.dproj=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
